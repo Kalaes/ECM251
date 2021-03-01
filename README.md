@@ -1,4 +1,4 @@
-# ECM251-2021-Lab3
+# ECM251
 Repositório criado para a disciplina Linguagens I.
 
 # Desenvolvedor:
