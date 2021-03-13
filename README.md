@@ -4,7 +4,7 @@ Repositório criado para a disciplina Linguagens I.
 # Desenvolvedor:
 - Raphael Gueleri Kalaes
 
-#Linguagens e Frameworks:
+# Princípais Linguagens:
 - Python
 - C
 - Java
