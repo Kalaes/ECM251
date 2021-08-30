@@ -1,0 +1,25 @@
+INSERT INTO Produtos
+(nome,valor,quantidade)
+VALUES ("Macarrao",10,2);
+INSERT INTO Produtos
+(nome,valor,quantidade)
+VALUES ("Arroz",29.9,3);
+INSERT INTO Produtos
+(nome,valor,quantidade)
+VALUES ("Feijão",20,5);
+INSERT INTO Produtos
+(nome,valor,quantidade)
+VALUES ("Batata Frita",12.5,100);
+INSERT INTO Produtos
+(nome,valor,quantidade)
+VALUES ("Farofa",15.5,8);
+INSERT INTO Produtos
+(nome,valor,quantidade)
+VALUES ("Frango",25,7);
+
+
+
+
+
+UPDATE Produtos set nome = "Coca-Cola", valor = 12.5 WHERE id-2;
+SELECT * FROM Produtos;
